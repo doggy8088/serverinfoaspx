@@ -407,8 +407,7 @@
                 <a role="link" id="dotnetVersions"></a>
                 <div>
                     <h3 class="text-primary">
-                        <img src="http://www.microsoft.com/web/media/icons/dotnet-icon.png" alt=".net logo" style="height: 18px;" />.NET<a href="#home" class="pull-right">
-                            <span class="glyphicon glyphicon-arrow-up small"></span></a>
+                        .NET<a href="#home" class="pull-right"><span class="glyphicon glyphicon-arrow-up small"></span></a>
                     </h3>
                 </div>
 

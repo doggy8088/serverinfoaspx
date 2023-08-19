@@ -33,7 +33,7 @@
         {
             try
             {
-                return new WebClient().DownloadString("//maxcdn.bootstrapcdn.com/") != null;
+                return new WebClient().DownloadString("https://maxcdn.bootstrapcdn.com/") != null;
             }
             catch { return false; }
         }
